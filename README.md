@@ -5,16 +5,16 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Go (version 1.16 or later)
+- Go (version 1.21)
 - MySQL
-- Air (optional, for hot reloading during development)
+
 
 ## Setup
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://[github.com/amirknj/simpleCrudWithFibe).git
+   cd directory
    ```
 
 2. Install dependencies:
