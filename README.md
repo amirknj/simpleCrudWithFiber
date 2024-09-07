@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://[github.com/amirknj/simpleCrudWithFibe).git
+   git clone https://[github.com/amirknj/simpleCrudWithFiber].git
    cd directory
    ```
 
